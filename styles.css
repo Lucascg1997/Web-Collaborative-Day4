@@ -47,3 +47,60 @@ html, body {
   .filter {
     background-color: #0000008a;
   }
+  .col-md-6 {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    padding: 0;
+}
+p {
+    margin: 0;
+}
+.h4, h4 {
+    font-size: 1.75rem;
+    text-align: center;
+    padding-left: 16rem;
+}
+#myHat {
+    margin: 0;
+    padding-left: 16rem;
+    text-align: center;
+}
+#myText {
+    margin: 0;
+    padding-right: 16rem;
+    padding-top: 1.75rem;
+    text-align: center;
+}
+#myBottom {
+    margin-left: 16rem;
+    text-align: center;
+}
+#card1 {
+    width: 18rem;
+    margin: auto;
+}
+#card2 {
+    width: 18rem;
+    margin: auto;
+}
+#card3 {
+    width: 18rem;
+    margin: auto;
+}
+.col-md-4 {
+    padding: 0;
+    width: 30%;
+}
+#card-section {
+    justify-content: center;
+}
+#container {
+    width: 100%;
+}
+#button {
+    margin-top: 2rem;
+    justify-content: center;
+}
+.col-md-4 {
+    margin-bottom: 5rem;
+}
